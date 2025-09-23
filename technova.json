@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What is TechNova Solutions?",
+    "answer": "TechNova Solutions is a SaaS company that provides cloud-based inventory and warehouse management software. We help businesses track stock, manage suppliers, and optimize logistics in real time."
+  },
+  {
+    "question": "Who are your typical customers?",
+    "answer": "Our software is designed for small to mid-sized retailers, wholesalers, and e-commerce businesses who need smarter inventory tracking without the complexity of traditional ERP systems."
+  },
+  {
+    "question": "What features does the TechNova Inventory System offer?",
+    "answer": "Key features include stock level tracking, barcode/QR code scanning, supplier management, purchase order automation, and real-time reporting dashboards."
+  },
+  {
+    "question": "Can I integrate your system with my e-commerce platform?",
+    "answer": "Yes. We offer integrations with Shopify, WooCommerce, Magento, and custom APIs for other platforms."
+  },
+  {
+    "question": "Do you support multiple warehouses?",
+    "answer": "Absolutely. Our platform supports multi-location management so you can track inventory across warehouses, stores, and fulfillment centers."
+  },
+  {
+    "question": "How much does your software cost?",
+    "answer": "We offer three plans: Starter ($29/month) → 1 warehouse, up to 2 users; Growth ($99/month) → up to 5 warehouses, 10 users; Enterprise (custom pricing) → unlimited warehouses, advanced analytics."
+  },
+  {
+    "question": "Do you offer a free trial?",
+    "answer": "Yes, new customers can try our Growth plan free for 14 days."
+  },
+  {
+    "question": "How can I contact support?",
+    "answer": "You can reach us via email (support@technova.com), live chat on our website, or phone support (available Mon–Fri, 9am–6pm CET)."
+  },
+  {
+    "question": "Do you provide onboarding or training?",
+    "answer": "Yes. All Growth and Enterprise customers receive free onboarding sessions and access to our training video library."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Monthly subscriptions can be canceled anytime with no refunds for the current billing cycle. Annual plans can be refunded within the first 30 days."
+  },
+  {
+    "question": "Is my data secure?",
+    "answer": "Yes. We use AES-256 encryption, daily backups, and GDPR-compliant hosting on AWS."
+  },
+  {
+    "question": "Do you provide API access?",
+    "answer": "Yes, API access is available in the Growth and Enterprise plans for custom integrations."
+  }
+]
