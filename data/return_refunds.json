@@ -1,0 +1,19 @@
+[
+    {
+      "question": "What is your return policy?",
+      "answer": "Customers can return items within 30 days of delivery. Items must be unused, in their original packaging, and include proof of purchase."
+    },
+    {
+      "question": "How do I request a refund?",
+      "answer": "You can request a refund by logging into your account and selecting 'Request Return' for the relevant order. Refunds are issued to the original payment method within 5-7 business days after we receive your item."
+    },
+    {
+      "question": "Are there items that cannot be returned?",
+      "answer": "Yes, clearance items, digital products, and customized goods are final sale and cannot be returned."
+    },
+    {
+      "question": "Can I exchange a defective product?",
+      "answer": "Yes, if you receive a defective or damaged product, you can request a free exchange or a full refund."
+    }
+  ]
+  

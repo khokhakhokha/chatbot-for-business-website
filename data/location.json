@@ -1,0 +1,23 @@
+[
+    {
+      "question": "What is a location in your system?",
+      "answer": "A location is any place where you sell products, stock inventory, or fulfill orders. This includes warehouses, retail stores, and fulfillment apps."
+    },
+    {
+      "question": "How many locations can I have?",
+      "answer": "The maximum number of locations depends on your subscription plan. Deactivated locations do not count toward your limit."
+    },
+    {
+      "question": "Do apps count as locations?",
+      "answer": "Yes, apps that fulfill orders or manage inventory are considered locations, but they do not count toward your plan’s location limit."
+    },
+    {
+      "question": "Can I split an order across multiple locations?",
+      "answer": "Yes, if some items are out of stock in one warehouse, your order can be split and fulfilled from multiple locations."
+    },
+    {
+      "question": "Can I manage inventory across different locations?",
+      "answer": "Yes, you can track and assign inventory to multiple locations to ensure accurate stock levels and smooth fulfillment."
+    }
+  ]
+  
