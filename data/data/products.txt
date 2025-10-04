@@ -1,9 +1,9 @@
 PureSkin offers a range of natural skincare products formulated with botanical and organic ingredients.  
 Our goal is to simplify skincare with effective, safe, and eco-conscious formulations for every skin type.
 
----
 
-## Product Categories
+
+Product Categories
 
 1. **Cleansers**  
    - Gentle face washes that remove dirt, oil, and makeup without stripping moisture.  
@@ -25,9 +25,9 @@ Our goal is to simplify skincare with effective, safe, and eco-conscious formula
    - Lightweight mineral sunscreens providing SPF 30–50 broad-spectrum protection.  
    - Key ingredients: zinc oxide, raspberry seed oil.
 
----
 
-## Best-Selling Products
+
+Best-Selling Products
 
 - **Pure Radiance Face Serum** – Brightens and evens skin tone with vitamin C and hyaluronic acid.  
 - **Calming Green Tea Moisturizer** – Soothes redness and irritation while hydrating the skin.  
@@ -35,7 +35,7 @@ Our goal is to simplify skincare with effective, safe, and eco-conscious formula
 - **Renewal Clay Mask** – Detoxifies and minimizes pores with kaolin clay and green tea extract.  
 - **Daily Mineral Sunscreen SPF 50** – Natural, non-greasy protection ideal for daily use.
 
----
+
 
 All PureSkin products are:
 - Dermatologist-tested  
